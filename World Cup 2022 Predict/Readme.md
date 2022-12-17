@@ -1,5 +1,11 @@
 # Predição dos jogos da copa do Qatar
 
-<img src="https://th.bing.com/th/id/R.965689daeb1edc8ac584e9744baa8f2d?rik=Sk6a%2bffXmCFT4w&pid=ImgRaw&r=0" alt="Copa do Catar">
+<img src="https://img.estadao.com.br/resources/jpg/7/6/1590009250767.jpg" alt="Copa do Catar">
 
-> O projeto tem como principal objetivo identificar possíveis ganhadores da copa de 2022. O principal motivador foi criar uma inteligência artificial para calcular as probabilidades do Brasil ser o grande campeão dessa edição da copa.
+# Introdução
+O projeto tem como principal objetivo identificar possíveis ganhadores da copa de 2022. Assim, o algoritmo tem como produto gerar resultados das probabilidades de cada seleção de ser o 1°, 2°, 3° e 4° do seu grupo. Além disso, calcula as chances de cada seleção passar de fase, ou seja, as oitavas, quartas, semis-finais.
+
+# Conclusão
+No arquivo resultado.csv, que pode ser encontrado nesse repositorio, foi que, feita a simualação 1000 vezes, teremos com o grande campeão dessa edição da copa o Brasil, sendo que em 2° lugar tem a argentina, em 3° a Belgica.
+
+<img src="https://www.opovo.com.br/_midias/jpg/2022/11/23/800x600/1_neymar_vinicius_junior_paqueta_brasil_copa_do_mundo_2022-20328074.jpg" alt="Copa do Catar">
